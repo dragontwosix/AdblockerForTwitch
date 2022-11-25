@@ -21,7 +21,7 @@ The code is licensed under the GPL-3.0 license and is based on https://github.co
 
 # Chrome 
 - Download `chrome` directory from github
-- Open up Chrome and in your Web Browser URL, enter: `achrome://extensions`
+- Open up Chrome and in your Web Browser URL, enter: `chrome://extensions`
 - Enable the `Developer Mode` toggle, found in the top right of this view (typically) of the extensions page in your browser
 - Click `Load unpacked Extension`
 - Select the `chrome` directory
