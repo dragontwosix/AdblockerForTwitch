@@ -90,7 +90,7 @@ function removeVideoAds() {
         scope.ClientSession = 'null';
         scope.PlayerType1 = 'site'; //Source
         scope.PlayerType2 = 'mobile'; //Source
-        scope.PlayerType3 = 'thunderdome'; //480p
+        scope.PlayerType3 = 'picture-by-picture'; //480p
         scope.CurrentChannelName = null;
         scope.UsherParams = null;
         scope.WasShowingAd = false;
