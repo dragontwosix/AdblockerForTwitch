@@ -14,13 +14,15 @@ You can donate via Paypal at https://www.paypal.com/paypalme/ttvadblock
 The code is licensed under the GPL-3.0 license and is based on https://github.com/cleanlock/VideoAdBlockForTwitch by cleanlock.
 
 # FireFox
-- Download `firefox` directory from github
+- [Download the latest ZIP Archive](https://github.com/dragontwosix/AdblockerForTwitch/archive/refs/heads/main.zip)
+- Extract `firefox` directory from the ZIP Archive
 - Open up Firefox and in your Web Browser URL, enter: `about:debugging#/runtime/this-firefox`
 - Click `Load Temporary Add-on`
 - Select the `firefox` directory then any file in that directory
 
 # Chrome 
-- Download `chrome` directory from github
+- [Download the latest ZIP Archive](https://github.com/dragontwosix/AdblockerForTwitch/archive/refs/heads/main.zip)
+- Extract `chrome` directory from the ZIP Archive
 - Open up Chrome and in your Web Browser URL, enter: `chrome://extensions`
 - Enable the `Developer Mode` toggle, found in the top right of this view (typically) of the extensions page in your browser
 - Click `Load unpacked Extension`
